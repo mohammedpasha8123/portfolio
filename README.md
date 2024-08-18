@@ -4,7 +4,7 @@ A simple portfolio template for developer/designers built with React.
 
 ### [live preview](https://portfolio-khaki-sigma-86.vercel.app/)
 
-[![react portfoiio](https://portfolio-khaki-sigma-86.vercel.app/)](https://portfolio-khaki-sigma-86.vercel.app/)
+[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://portfolio-khaki-sigma-86.vercel.app/)
 
 ### Features
 
